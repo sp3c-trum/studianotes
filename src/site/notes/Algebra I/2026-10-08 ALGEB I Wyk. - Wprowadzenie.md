@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/algebra-i/2026-10-08-algeb-i-wyk-wprowadzenie/","title":"ALGEB I Wyk. - ALGEB I Wyk. - Wprowadzenie","dg-note-properties":{"title":"ALGEB I Wyk. - ALGEB I Wyk. - Wprowadzenie","startTime":"08:00","endTime":"10:00","date":"2026-10-08","endDate":null,"completed":null,"timezone":"Europe/Warsaw"}}
+{"dg-publish":true,"permalink":"/algebra-i/2026-10-08-algeb-i-wyk-wprowadzenie/","title":"2026-10-08 ALGEB I Wyk. - Wprowadzenie","dg-note-properties":{"title":"2026-10-08 ALGEB I Wyk. - Wprowadzenie","startTime":"08:00","endTime":"10:00","date":"2026-10-08","endDate":null,"completed":null,"timezone":"Europe/Warsaw"}}
 ---
 
 

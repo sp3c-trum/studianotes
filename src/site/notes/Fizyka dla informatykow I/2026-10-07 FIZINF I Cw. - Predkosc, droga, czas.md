@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fizyka-dla-informatykow-i/2026-10-07-fizinf-i-cw-predkosc-droga-czas/","title":"FIZINF I Cw. - FIZINF I Cw. - Predkosc, droga, czas","dg-note-properties":{"title":"FIZINF I Cw. - FIZINF I Cw. - Predkosc, droga, czas","location":"WFAiIS","startTime":"12:00","endTime":"14:00","date":"2026-10-07","endDate":null,"completed":null,"timezone":"Europe/Warsaw"}}
+{"dg-publish":true,"permalink":"/fizyka-dla-informatykow-i/2026-10-07-fizinf-i-cw-predkosc-droga-czas/","title":"2026-10-07 FIZINF I Cw. - Predkosc, droga, czas","dg-note-properties":{"title":"2026-10-07 FIZINF I Cw. - Predkosc, droga, czas","location":"WFAiIS","startTime":"12:00","endTime":"14:00","date":"2026-10-07","endDate":null,"completed":null,"timezone":"Europe/Warsaw"}}
 ---
 
 # Podstawowe informacje

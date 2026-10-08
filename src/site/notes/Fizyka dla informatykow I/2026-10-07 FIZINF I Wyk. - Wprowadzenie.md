@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fizyka-dla-informatykow-i/2026-10-07-fizinf-i-wyk-wprowadzenie/","title":"FIZINF I Wyk. - FIZINF I Wyk. - Wprowadzenie","dg-note-properties":{"title":"FIZINF I Wyk. - FIZINF I Wyk. - Wprowadzenie","location":"WFAiIS","startTime":"14:00","endTime":"16:00","date":"2026-10-07","endDate":null,"completed":null,"timezone":"Europe/Warsaw"}}
+{"dg-publish":true,"permalink":"/fizyka-dla-informatykow-i/2026-10-07-fizinf-i-wyk-wprowadzenie/","title":"2026-10-07 FIZINF I Wyk. - Wprowadzenie","dg-note-properties":{"title":"2026-10-07 FIZINF I Wyk. - Wprowadzenie","location":"WFAiIS","startTime":"14:00","endTime":"16:00","date":"2026-10-07","endDate":null,"completed":null,"timezone":"Europe/Warsaw"}}
 ---
 
 
