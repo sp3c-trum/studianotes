@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Studia - strona główna","tags":["gardenEntry"],"dg-note-properties":{"title":"Studia - strona główna"}}
+{"dg-publish":true,"permalink":"/index/","title":"Index","tags":["gardenEntry"],"dg-note-properties":{"title":"Index"}}
 ---
 
 **Informatyka stosowana** - Semestr I - 2026/27

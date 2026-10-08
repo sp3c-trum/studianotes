@@ -3,5 +3,5 @@
 ---
 
 
-![Pasted image 20261008145355.png\|477](/img/user/Pasted%20image%2020261008145355.png)
+![Pasted image 20261008145355.png\|477](/img/user/_Img/Pasted%20image%2020261008145355.png)
 there's nothing
